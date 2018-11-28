@@ -1,5 +1,5 @@
-javac Employee.java
-javac Faculty.java
-javac Staff.java
-javac TestCompany.java
-java TestCompany
+javac SavingsAccount.java
+javac CheckingAccount.java
+javac TestAccount.java
+
+java TestAccount
